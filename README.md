@@ -1,4 +1,4 @@
-# DATA1030_FlightDelayProject
+# FlightDelayProject
 Machine Learning Model to predict delay status of a flight given certain conditions. This is a classification problem, and as such linear regression, logistic regression, XGBOOST, and Random Forest are implemented on an evaluation metric of accuracy scores. 
 Python Version 3.11.4 
 numpy version 1.24.4 
